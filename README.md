@@ -8,13 +8,13 @@
 
 - 🔭 Actualmente estoy trabajando **en una empresa de Telecomunicaciones**
 
-- 🌱 I’m currently learning **IA, Sistemas Embebidos y Control**
+- 🌱 Estoy aprendiendo sobre **microcontroladores PIC, IA, Sistemas Embebidos y Control de sistemas**
 
-- 👨‍💻 Todos mis proyectos los puedes encontrar en: at [en Proceso...](en Proceso...)
+- 👨‍💻 Todos mis proyectos los puedes encontrar en: Pagina en proceso...
 
-- 💬 Ask me about **microcontroladores**
+- 💬 Preguntame lo que quieras sobre **microcontroladores**
 
-- 📫 How to reach me **juanrodrigortiz@gmail.com**
+- 📫 Puedes contactarme en mi correo **juanrodrigortiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
